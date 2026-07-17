@@ -58,6 +58,7 @@ public class day2 {
         // Find LCM
         int lcm = (x * y) / a;
 
+        sc.close();
         System.out.println(lcm);
     }
 }
