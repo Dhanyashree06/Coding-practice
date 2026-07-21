@@ -1,4 +1,5 @@
 //contiguous increasing subarray
+
 /***************
 import java.util.Scanner;
 public class day7{
