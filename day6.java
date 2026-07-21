@@ -47,6 +47,8 @@ public class day6 {
 
 //Count Even Numbers Greater than Average
 
+/**********
+ 
 import java.util.Scanner;
 
 public class day6 {
@@ -104,3 +106,5 @@ public class day6 {
         sc.close();
     }
 }
+
+***********/
